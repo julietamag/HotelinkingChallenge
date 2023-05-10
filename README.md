@@ -6,7 +6,7 @@ Node.js, npm, MySql, PHP
 ## How to use: 
 <ol>
   <li>Download the project (or clone using GIT) </li>
-    <code> </code>
+   
    <li>Copy .env.example into .env and configure database credentials as your local machine requires </li>
       <li>Navigate to the project's root directory using terminal </li>
       <li>Run <code> composer install</code></li>
